@@ -4,7 +4,7 @@
 **marimatos/marimatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I'm Marina!
-I'm graduated in System Analisys, but I've alaways worked as support analyst.
+I'm graduated in System Analisys, but I've alaways worked as a support analyst.
 My goal is to work as a dev, so I'm currently learning Fullstack Web Development at Rocketseat.
 
 Tech:
