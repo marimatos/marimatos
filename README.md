@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
-**marimatos/marimatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marimatos/marimatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I'm Marina!
+I'm graduated in System Analisys, but I've alaways worked as support analyst.
+My goal is to work as a dev, so I'm currently learning Fullstack Web Development at Rocketseat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech:
+- 🌱 HTML, CSS, Javascript, NodeJs
+
+I'm passionate about learning new things, solve problems, help other people, movies, tv series and soccer! 😄
+
+
+- 📫 How to reach me:  [Email](marina.msp@gmail.com), [LinkedIn](https://www.linkedin.com/in/marinamatos/)
+
